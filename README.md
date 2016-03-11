@@ -6,10 +6,22 @@ iOS面试题库汇总:笔试题，面试题
   文中的答案皆是来源于网上，不保证全部正确，仅供参考。
  
  # iOS面试题库题库一
-  ![iOSInterviewTestLibrary](https://github.com/WinJayQ/iOSInterviewTestLibrary/raw/master/0面试题库一/ms1.png)![iOSInterviewTestLibrary](https://github.com/WinJayQ/iOSInterviewTestLibrary/raw/master/0面试题库一/ms2.png)![iOSInterviewTestLibrary](https://github.com/WinJayQ/iOSInterviewTestLibrary/raw/master/0面试题库一/ms3.png)![iOSInterviewTestLibrary](https://github.com/WinJayQ/iOSInterviewTestLibrary/raw/master/0面试题库一/ms4.png)![iOSInterviewTestLibrary](https://github.com/WinJayQ/iOSInterviewTestLibrary/raw/master/0面试题库一/ms5.png)![iOSInterviewTestLibrary](https://github.com/WinJayQ/iOSInterviewTestLibrary/raw/master/0面试题库一/ms6.png) 
- 
- 
+  ![iOSInterviewTestLibrary](https://github.com/WinJayQ/iOSInterviewTestLibrary/raw/master/0面试题库一/ms1.png)
+  ![iOSInterviewTestLibrary](https://github.com/WinJayQ/iOSInterviewTestLibrary/raw/master/0面试题库一/ms2.png)
+  ![iOSInterviewTestLibrary](https://github.com/WinJayQ/iOSInterviewTestLibrary/raw/master/0面试题库一/ms3.png)
+  ![iOSInterviewTestLibrary](https://github.com/WinJayQ/iOSInterviewTestLibrary/raw/master/0面试题库一/ms4.png)
+  ![iOSInterviewTestLibrary](https://github.com/WinJayQ/iOSInterviewTestLibrary/raw/master/0面试题库一/ms5.png)
+  ![iOSInterviewTestLibrary](https://github.com/WinJayQ/iOSInterviewTestLibrary/raw/master/0面试题库一/ms6.png) 
  # iOS面试题库二
- 
+  ![iOSInterviewTestLibrary](https://github.com/WinJayQ/iOSInterviewTestLibrary/raw/master/1面试题库二/mst1.png)
+  ![iOSInterviewTestLibrary](https://github.com/WinJayQ/iOSInterviewTestLibrary/raw/master/1面试题库二/mst2.png)
+  ![iOSInterviewTestLibrary](https://github.com/WinJayQ/iOSInterviewTestLibrary/raw/master/1面试题库二/mst3.png)
+  ![iOSInterviewTestLibrary](https://github.com/WinJayQ/iOSInterviewTestLibrary/raw/master/1面试题库二/mst4.png)
  
  # 其他
+ # iOS开发学习路线
+  ![iOSInterviewTestLibrary](https://github.com/WinJayQ/iOSInterviewTestLibrary/raw/master/look.jpg)
+ #git使用大全
+  ![iOSInterviewTestLibrary](https://github.com/WinJayQ/iOSInterviewTestLibrary/raw/master/git.jpg)
+ #多线程
+  ![iOSInterviewTestLibrary](https://github.com/WinJayQ/iOSInterviewTestLibrary/raw/master/multithread.png)
